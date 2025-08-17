@@ -1,2 +1,4 @@
-V_Gangnam
-V_SanAnd
+{
+V_Gangnam,
+V_SanAnd,
+}
