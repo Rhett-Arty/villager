@@ -34,5 +34,6 @@
 "V_BlindLight",
 "V_RapGod",
 "V_Jew",
-"V_Cupid"
+"V_Cupid",
+"V_Revenge"
 }
