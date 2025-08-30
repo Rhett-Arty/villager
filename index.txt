@@ -50,5 +50,14 @@
 "V_Skrillex_Rumble",
 "V_Ransom",
 "V_illagers_In_Paris",
-"V_Old_Town_Road"
+"V_Old_Town_Road",
+"V_Nae_Nae",
+"V_Beat_My",
+"V_Ceasaaaaaar",
+"V_Gangsta_Rap",
+"V_Friendzone",
+"V_Pagliacci",
+"V_Pretty_Little_Baby",
+"V_Dont_Stop_Me_Now",
+"V_Killer_Queen"
 }
