@@ -59,5 +59,10 @@
 "V_Pagliacci",
 "V_Pretty_Little_Baby",
 "V_Dont_Stop_Me_Now",
-"V_Killer_Queen"
+"V_Killer_Queen",
+"Villager - Erika",
+"Villager - Rasputin",
+"Villager - Ew (Joji)",
+"Villager - Germany (Rucka)",
+"Villager - Do Not Redeem"
 }
